@@ -9,3 +9,4 @@ UI and Visual Design : [T-SrinivasaN](https://github.com/T-SrinivasaN)
 
 
 # Licence
+### Apache License 2.0
