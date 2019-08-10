@@ -4,6 +4,7 @@ This repository contains all project files, including the revision history for E
 
 # Authors
 Elektrik App Design : [Abiram-N](https://github.com/Abiram-N)
+
 UI and Visual Design : [T-SrinivasaN](https://github.com/T-SrinivasaN)
 
 
